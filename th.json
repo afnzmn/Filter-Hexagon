@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "afn#0001",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "Filter Hexagon",
         "license": "EPL-2.0",
         "updater": "https:\/\/raw.githubusercontent.com\/afnzmn\/Filter-Hexagon\/main\/th.json"
@@ -22,7 +22,7 @@
     "colors": {
         "uikit_btn_bg_color_selector_red": -1488268,
         "primary_100": -11841695,
-        "primary_dark_300": -9209445,
+        "primary_dark_300": -7235651,
         "primary_dark_360": -10328705,
         "primary_dark_660": -15263456,
         "primary_dark_800": -16118762,
@@ -41,8 +41,8 @@
     },
     "drawable_tints": {
         "drawable_button_grey": -13749442,
-        "ic_sidebar_pins_off_dark_24dp": -9209702,
-        "ic_sidebar_notifications_off_light_24dp": -9209702,
+        "ic_sidebar_pins_off_dark_24dp": -7235651,
+        "ic_sidebar_notifications_off_light_24dp": -7235651,
         "ic_mic_mute_red_strike_24dp": -1488268,
         "ic_remove_friend_red_24dp": -1488268,
         "ic_add_friend_plus": -10040645,
@@ -52,7 +52,7 @@
         "ic_call_disconnect_24dp": -1488268,
         "ic_stop_stream": -1488268,
         "ic_status_idle_16dp": -12194,
-        "ic_sidebar_notifications_on_dark_24dp": -9209702,
+        "ic_sidebar_notifications_on_dark_24dp": -7235651,
         "ic_status_online_16dp": -10040645,
         "ic_phone_24dp": -10040645,
         "ic_phone_verification_24dp": -10040645,
